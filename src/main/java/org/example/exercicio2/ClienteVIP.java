@@ -1,4 +1,4 @@
-package ProjetoPraticaSOLID.src.main.java.org.example.exercicio2;
+package org.example.exercicio2;
 
 public class ClienteVIP extends CalculadoraDeDesconto implements Desconto{
 

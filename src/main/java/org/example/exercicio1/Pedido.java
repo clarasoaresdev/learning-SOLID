@@ -1,4 +1,4 @@
-package ProjetoPraticaSOLID.src.main.java.org.example.exercicio1;
+package org.example.exercicio1;
 
 //Refatore o código para que a classe Pedido siga o Princípio da Responsabilidade Única.
 

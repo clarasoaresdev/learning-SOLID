@@ -1,5 +1,4 @@
-package ProjetoPraticaSOLID.src.main.java.org.example.exercicio1;
-import  ProjetoPraticaSOLID.src.main.java.org.example.exercicio1.Pedido;
+package org.example.exercicio1;
 import java.util.ArrayList;
 import java.util.List;
 

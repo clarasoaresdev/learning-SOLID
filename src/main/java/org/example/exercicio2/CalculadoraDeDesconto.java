@@ -1,4 +1,4 @@
-package ProjetoPraticaSOLID.src.main.java.org.example.exercicio2;
+package org.example.exercicio2;
 
 //Refatore o código para que siga o Princípio Aberto/Fechado
 

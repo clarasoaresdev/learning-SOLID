@@ -1,4 +1,4 @@
-package ProjetoPraticaSOLID.src.main.java.org.example.exercicio3;
+package org.example.exercicio3;
 
 public class Robo implements Funcionario {
 

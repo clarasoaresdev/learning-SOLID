@@ -1,4 +1,4 @@
-package ProjetoPraticaSOLID.src.main.java.org.example.exercicio4;
+package org.example.exercicio4;
 
 public class Avestruz extends Passaro {
 

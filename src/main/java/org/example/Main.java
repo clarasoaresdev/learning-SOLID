@@ -1,12 +1,11 @@
-package ProjetoPraticaSOLID.src.main.java.org.example;
+package org.example;
 
-import ProjetoPraticaSOLID.src.main.java.org.example.exercicio1.PedidoServices;
-import ProjetoPraticaSOLID.src.main.java.org.example.exercicio2.ClienteRegular;
-import ProjetoPraticaSOLID.src.main.java.org.example.exercicio2.ClienteVIP;
-import ProjetoPraticaSOLID.src.main.java.org.example.exercicio3.Humano;
-import ProjetoPraticaSOLID.src.main.java.org.example.exercicio3.Robo;
-import ProjetoPraticaSOLID.src.main.java.org.example.exercicio4.Avestruz;
-import ProjetoPraticaSOLID.src.main.java.org.example.exercicio4.Passaro;
+import org.example.exercicio1.PedidoServices;
+import org.example.exercicio2.ClienteRegular;
+import org.example.exercicio2.ClienteVIP;
+import org.example.exercicio3.Humano;
+import org.example.exercicio3.Robo;
+import org.example.exercicio4.*;
 
 
 public class Main {
@@ -39,6 +38,8 @@ public class Main {
         p.bebeAgua();
         p.seAlimenta();
 
+        PassaroQueVoa pv = new PassaroQueVoa();
+        pv.voar();
 
         Avestruz a = new Avestruz();
         a.abreAsas();
