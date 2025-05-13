@@ -16,12 +16,9 @@ D — Dependency Inversion Principle (Princípio da inversão da dependência)
 
 ## Diferença entre Princípios de Projeto e Padrões de Projeto
 
-  Entrando no assunto de princípios de projeto, podem surgir dúvidas sobre princípios de projeto e padrões de projeto, se são a mesma coisa, se possuem alguma diferença. Então, basicamente os princípios de projeto,
-no geral, pode-se dizer que são diretrizes gerais e abstratas que são usados para orientar o desenvolvedor na tomada de decisões e estruturação na hora de construir softwares. Devido a sua generalização, os princípios 
-de projetos podem ser aplicados em diferentes contextos e linguagens de programação. Assim, podendo contribuir na construção de bons projetos e que esses sejam códigos mais limpos, organizados, compreensíveis e 
-facilitando na manutenção desses códigos. Já os padrões de projetos, em poucas palavras, podem ser definidos como soluções de desenvolvimento prontas - e adaptáveis, para problemas concretos, semelhantes e recorrentes 
-no mundo dos códigos. 
+  Entrando no assunto de princípios de projeto, podem surgir dúvidas sobre princípios de projeto e padrões de projeto, se são a mesma coisa, se possuem alguma diferença. Então, basicamente os princípios de projeto, no geral, pode-se dizer que são diretrizes gerais e abstratas que são usados para orientar o desenvolvedor na tomada de decisões e estruturação na hora de construir softwares. Devido a sua generalização, os princípios de projetos podem ser aplicados em diferentes contextos e linguagens de programação. Assim, podendo contribuir na construção de bons projetos e que esses sejam códigos mais limpos, organizados, compreensíveis e facilitando na manutenção desses códigos.
 
+   Já os padrões de projetos, são como soluções descritas pra lidar problemas de forma eficiente e contribuindo para projeção de uma boa solução.
 
 ## Características dos Princípios SOLID
 
